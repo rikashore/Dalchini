@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dalchini", "Dalchini\Dalchini.csproj", "{135B1DC0-33B3-46AC-B407-DFEEB21AE061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135B1DC0-33B3-46AC-B407-DFEEB21AE061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135B1DC0-33B3-46AC-B407-DFEEB21AE061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135B1DC0-33B3-46AC-B407-DFEEB21AE061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135B1DC0-33B3-46AC-B407-DFEEB21AE061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
